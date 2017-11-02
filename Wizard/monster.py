@@ -27,5 +27,3 @@ def monster_Search(url):
 
 
 monster_Search("https://www.monster.com/jobs/search/?where=New-York&page=6")
-a = input("Value? => ")
-print(a)
